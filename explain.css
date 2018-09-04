@@ -1,0 +1,44 @@
+.header {
+    font-family: "Courier New", Courier, monospace;
+}
+.eli5-container {
+    padding: 15px 10px 25px 10px;
+    border: 1px solid lightgray;
+    width: 18rem;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.eli5-container a {
+    color: black;
+    text-decoration: none;
+}
+.eli5-item {
+    color: aquamarine;
+    font-size: 1.8rem;
+    margin-left: 5px;
+}
+.eli5-item > * {
+    font-size: initial;
+}
+
+.eli5-title {
+    color: black;
+}
+.footer {
+    color: rgb(23, 125, 228);
+}
+.eli5-container p {
+    margin: 0rem;
+}
+.eli5-container ul {
+    padding: 0 1rem 0rem 1rem;
+}
+
+.eli5-container span {
+    color: gray;
+    font-size: 80%;
+}
+
+li {
+    margin-bottom: 15px;
+}
